@@ -1,0 +1,24 @@
+.section-footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5rem;
+    border-top: 1px solid rgb(84, 84, 84);
+    margin-top: 20rem;
+}
+
+.section-footer p{
+    font-weight: 600;
+    font-size: 2em;
+}
+
+.section-footer img{
+    width: 8rem;
+    margin-right: 2rem;
+}
+
+.bar-footer{
+    background-color: #FF93AD;
+    color: #191919;
+    padding: 0.3rem 5rem;
+}
